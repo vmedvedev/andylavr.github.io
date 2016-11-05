@@ -1,4 +1,4 @@
-# Acerium Project (wwww)
+# Acerium Project (acerium.ru)
 
 
 [Read instructions](http://acerium.ru)
