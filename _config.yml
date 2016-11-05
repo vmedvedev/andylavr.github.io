@@ -9,7 +9,9 @@ name: Acerium Project
 description: Ubuntu kernel and Live CD for Acer Aspire Switch 10 SW5-012 Z3537F
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars.githubusercontent.com/u/16132814?s=300
+# avatar: https://avatars.githubusercontent.com/u/16132814?s=300
+avatar: http://acerium.ru/images/acer_small.jpg
+
 #
 # Flags below are optional
 #
