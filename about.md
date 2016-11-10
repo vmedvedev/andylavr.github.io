@@ -5,9 +5,6 @@ permalink: /about/
 ---
 
 Created by Andrei Lavreniyuk
-
-### More Information
-
 CEO at "Technica-03, Inc."
 
 ### Contact me
