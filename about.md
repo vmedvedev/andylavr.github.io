@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Created Andrei Lavreniyuk
+Created by Andrei Lavreniyuk
 
 ### More Information
 
-CEO "Technica-03, Inc."
+CEO at "Technica-03, Inc."
 
 ### Contact me
 
