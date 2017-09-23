@@ -3,7 +3,7 @@
 
 [Read instructions](http://acerium.ru)
 
-[Kernel source for Acerium Project](https://github.com/AndyLavr/Aspire-SW5-012_Kernel_4.8)
+[Kernel source for Acerium Project](https://github.com/AndyLavr/Aspire-SW5-012_Kernel_4.13)
 
 
 
