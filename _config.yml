@@ -71,8 +71,6 @@ version: v1.2.0
       
 markdown: kramdown
 highlighter: rouge      
-css_class: 'highlight'
-
 
 # Set the Sass partials directory, as we're using @imports
 sass:
